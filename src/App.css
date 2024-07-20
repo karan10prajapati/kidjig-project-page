@@ -1,0 +1,10 @@
+
+.text-gradient {
+  background: linear-gradient(90deg, #1C1C1C 0%, #E3E3E3 50.1%, #1C1C1C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.shadow-spherical {
+  box-shadow: 0 8px 16px rgba(16, 28, 92, 0.6);
+}
